@@ -4,8 +4,12 @@
   "jsxSingleQuote": true,
   "bracketSpacing": true,
   "trailingComma": "all",
-  "printWidth": 80,
+  "printWidth": 100,
   "tabWidth": 2,
   "arrowParens": "always",
-  "endOfLine": "auto"
+  "endOfLine": "auto",
+  "singleAttributePerLine": true,
+  "proseWrap": "always",
+  "quoteProps": "consistent",
+  "bracketSameLine": false
 }

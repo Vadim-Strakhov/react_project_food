@@ -5,15 +5,21 @@ export const Header = () => {
   return (
     <nav className='green darken-1'>
       <div className='nav-wrapper'>
-        <Link to='!#' className='brand-logo'>
+        <Link
+          to='/'
+          className='brand-logo'
+        >
           React Project Food
         </Link>
-        <ul id='nav-mobile' className='right hide-on-med-and-down'>
+        <ul
+          id='nav-mobile'
+          className='right hide-on-med-and-down'
+        >
           <li>
-            <Link to='/about'>About</Link>
+            <Link to={`/about`}>About</Link>
           </li>
           <li>
-            <Link to='/contact'>Contact</Link>
+            <Link to={`/contact`}>Contact</Link>
           </li>
         </ul>
       </div>
