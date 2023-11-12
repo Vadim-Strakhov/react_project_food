@@ -9,7 +9,7 @@ export const Header = () => {
           to='/'
           className='brand-logo'
         >
-          React Project Food
+          React Food
         </Link>
         <ul
           id='nav-mobile'
