@@ -1,7 +1,8 @@
-# SPA приложение по поиску и просмотру рецептов различных блюд на React, React Router и Materialize CSS
+## SPA React приложение по поиску и просмотру рецептов различных блюд
 
-- Доступен выбор нужной категории и просмотр рецепта конкретного блюда
+ - ### Проект доступен по ссылке - https://vadim-strakhov.github.io/react_project_food/
+ - ### В проекте использован бесплатный API - https://themealdb.com/api.php
+ - ### В проекте реализован функционал выбора нужной категории и просмотр рецепта конкретного блюда. Так же реализован поиск по нужной категории, например 'Dessert' или 'Pasta'
+ - ### Технологии - `react`, `css`, `ajax`, `react-router-dom`, `materialize-css` 
 
-- Так же реализован поиск по нужной категории, например 'Dessert' или 'Pasta'
-
-![react_project_food](react_project_food.png)
+![](react_food.png)
