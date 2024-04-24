@@ -1,4 +1,4 @@
-## SPA React приложение по поиску и просмотру рецептов различных блюд
+## React spa приложение по поиску и просмотру рецептов различных блюд
 
  - ### Проект доступен по ссылке - https://vadim-strakhov.github.io/react_project_food/
  - ### В проекте использован бесплатный API - https://themealdb.com/api.php
